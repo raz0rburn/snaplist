@@ -1,0 +1,7 @@
+[VSphere]
+host=
+user=
+pwd=
+[Telegram]
+TOKEN = 
+chat_id = 
